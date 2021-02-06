@@ -1,6 +1,6 @@
 # What is this? 
 
-This will help you get state codes for different states in India.
+This will help you get state codes for different states for India.
 
 # Installation
 

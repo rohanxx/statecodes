@@ -1,7 +1,7 @@
 {
   "name": "statecodes-india",
   "version": "1.0.0",
-  "description": "This will help you get state codes for different states in India.",
+  "description": "This will help you get state codes for different states for India.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
