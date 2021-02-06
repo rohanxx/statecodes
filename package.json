@@ -1,0 +1,20 @@
+{
+  "name": "statecodes-india",
+  "version": "1.0.0",
+  "description": "This will help you get state codes for different states in India.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohanxx/statecodes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohanxx/statecodes/issues"
+  },
+  "homepage": "https://github.com/rohanxx/statecodes#readme"
+}
