@@ -1,4 +1,4 @@
-const stateCodes = require('./stateCodes.json') ;
+const stateCodes = require('./stateCodes.json');
 
 function statecode(stateName) {
     var result = stateCodes.filter(function (data) { 
